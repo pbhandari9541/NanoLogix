@@ -1,0 +1,36 @@
+#!/bin/bash
+
+echo " "
+echo " "
+echo "	Congratulations on running the script"
+echo "	You thought the worst was over, but it only just began"
+echo "	Find the password, with this riddle"
+echo " "
+echo " "
+sleep 5
+echo "		A sailor rode on my first one day,"
+sleep 3
+echo " "
+echo "		My second is all he had to say,"
+sleep 3
+echo " "
+echo "		When he asked my third, his reply was odd,"
+sleep 3
+echo " "
+echo "		A golden my fourth, without the pod."
+sleep 3
+echo " "
+echo "		He hoped to find one before my fifth,"
+sleep 3
+echo " "
+echo "		To pay a bounty-- my sixth forthwith."
+sleep 3
+echo " "
+echo "		He was a puzzle, there is no doubt,"
+sleep 3
+echo " "
+echo "		My all is a secret to figure out..."
+echo " "
+echo "	The riddle will disappear in 10sec .."
+sleep 10
+clear

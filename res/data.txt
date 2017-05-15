@@ -1,0 +1,6 @@
+	SERVER ROOM STATS:	
+		Generator: 1.12 gigawatts
+		Temperature: 450°C
+		Fusion: NO
+		Damage: 7.1
+		Test ID: 112-458

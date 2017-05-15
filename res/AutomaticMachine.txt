@@ -1,0 +1,26 @@
+	Last editted by Alan T. on 06/20/76 3:14 PM
+
+	I am currently working on an an abstract machine that manipulates
+	symbols on a strip of tape according to a table of rules; actually,
+	to be more exact, it is more like a mathematical model that defines
+	such a machine.
+ 
+	Just imagine, an unlimited memory capacity obtained in the form of 
+	an infinite tape marked out into squares, on each of which a symbol
+	could be printed. At any moment there is one symbol in the machine;
+	it is called the scanned symbol.
+
+	The machine can alter the scanned symbol, and its behavior is in part
+	determined by that symbol, but the symbols on the tape elsewhere do 
+	not affect the behavior of the machine. However, the tape can be moved
+	back and forth through the machine, this being one of the elementary 
+	operations of the machine. Any symbol on the tape may therefore 
+	eventually have an innings. This is the beginning of a new Era.
+
+	If you want to know more about this revolutionary machine. 
+	Try connecting on my account.
+
+	My Username is my first name followed by my (full) last name (no space).
+	My password is my birthdate in reverse. (YY/DD/MM)
+
+									--Alan T.

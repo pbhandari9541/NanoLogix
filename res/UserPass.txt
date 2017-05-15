@@ -1,0 +1,21 @@
+	Last edited by ????? on 10/03/76 03:45 PM
+
+	Welcome! You thought your username and password were going to
+	be right here...
+
+	Well, they are ... BUT WAIT !!!
+	You will have to do some hard work to find the real ones.
+
+		Username: 101011011010 (From Binary to Hexa-Decimal)
+		pasword: 473  (From Octal to Binary)
+
+	You know what to do !
+
+	With simple tricks this exercise becomes really easy.
+	( 4 binary bits = 1 Hex value and 1 Octal value = 3 binary bits)
+
+	Figure out yourself how to convert the username and password...
+	DO THE WORK!! HAVE FUN!!!
+
+							--?????
+
